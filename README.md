@@ -6,4 +6,4 @@ A collection of technical documents describing the different moving parts of Ara
 
 ### Client
 
-- [**Background Tasks**](specs/client/BACKGROUND_TASKS.md):
+- [**Background Tasks**](specs/client/BACKGROUND_TASKS.md): Specifies how background tasks for applications should be defined and run
